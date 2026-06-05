@@ -46,6 +46,10 @@ To run the chat application, open your terminal at the root directory of the pro
 
 ```bash
 python -m src.app
+
+or for linux/mac:
+
+python3 -m src.app
 ```
 
 Once the application starts, you can type your messages, use `/switch` to change between the two active users, and type `/quit` to safely exit the application. Your chat history is automatically saved to `chat_history.json`.
@@ -58,4 +62,8 @@ To run the tests with detailed output messages, execute the following command fr
 
 ```bash
 python -m unittest discover -s tests -v
+
+or for linux/mac:
+
+python3 -m unittest discover -s tests -v
 ```
