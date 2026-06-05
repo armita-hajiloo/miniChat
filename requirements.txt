@@ -1,0 +1,6 @@
+# Mini-Chat Project Requirements
+#
+# This project relies exclusively on the Python Standard Library.
+# No external dependencies are required.
+
+# To run the app, ensure you are using Python 3 or higher.
