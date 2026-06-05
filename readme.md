@@ -45,7 +45,7 @@ Since this project relies exclusively on the standard library, the `requirements
 To run the chat application, open your terminal at the root directory of the project and execute:
 
 ```bash
-python3 -m src.app
+python -m src.app
 ```
 
 Once the application starts, you can type your messages, use `/switch` to change between the two active users, and type `/quit` to safely exit the application. Your chat history is automatically saved to `chat_history.json`.
