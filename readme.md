@@ -57,5 +57,5 @@ The project includes a comprehensive test suite using Python's built-in `unittes
 To run the tests with detailed output messages, execute the following command from the root directory:
 
 ```bash
-python3 -m unittest discover -s tests -v
+python -m unittest discover -s tests -v
 ```
