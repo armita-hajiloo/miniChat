@@ -42,6 +42,11 @@ This project is structurally designed to showcase the four pillars of OOP:
 
 Since this project relies exclusively on the standard library, the `requirements.txt` is strictly empty. No environment setup is required.
 
+```bash
+git clone https://github.com/armita-hajiloo/miniChat
+cd miniChat
+```
+
 To run the chat application, open your terminal at the root directory of the project and execute:
 
 ```bash
